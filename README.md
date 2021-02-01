@@ -1,6 +1,4 @@
-# <ここにアプリ名を入力>
-
-モテトーク
+# <モテトーク>
 
 ## サイト概要
 
@@ -28,7 +26,7 @@
 
 ## 設計書
 
-## チャレンジ要素一覧
+## 機能一覧
 
 https://docs.google.com/spreadsheets/d/1GwOL7LX8hlbig_iKJ7105J-rfrNsOyZeTrz9snUXmiw/edit#gid=0
 
@@ -39,8 +37,3 @@ https://docs.google.com/spreadsheets/d/1GwOL7LX8hlbig_iKJ7105J-rfrNsOyZeTrz9snUX
 - フレームワーク：Ruby on Rails
 - JS ライブラリ：jQuery(余裕があれば React)
 - IDE：Cloud9(余裕があれば Docker)
-
-## 使用素材
-
-- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名と URL を明記してください。
-- 使用しない場合は、使用素材の項目を README から削除してください。
