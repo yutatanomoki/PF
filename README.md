@@ -35,5 +35,5 @@ https://docs.google.com/spreadsheets/d/1GwOL7LX8hlbig_iKJ7105J-rfrNsOyZeTrz9snUX
 - OS：Linux(CentOS)
 - 言語：HTML,CSS,JavaScript,Ruby,SQL
 - フレームワーク：Ruby on Rails
-- JS ライブラリ：jQuery(余裕があれば React)
-- IDE：Cloud9(余裕があれば Docker)
+- JS ライブラリ：jQuery
+- IDE：Cloud9
